@@ -1,0 +1,33 @@
+body {
+    background-image: url("mountain.jpg");
+    background-repeat: repeat-x;
+    background-size: cover;
+    
+}
+
+.container-fluid {
+    font-size: 1.5rem;
+    color: black;
+}
+
+.head {
+    font-size: 5rem;
+}
+
+.content {
+    font-size: 1.4rem;
+}
+
+
+.row img {
+    margin-left: 3rem;
+    width: 25rem;
+}
+
+.btn {
+    margin-left: 13rem;
+}
+
+.content{
+    margin-left: 7rem;
+}
